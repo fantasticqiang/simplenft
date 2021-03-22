@@ -1,6 +1,6 @@
 {
-    id: 0,
-    description: "My NFT",
-    image: "https://ipfs.io/ipfs/QmRnWAoMxr2ZHCuFF8sDtnKjN6iayLjVw8j8NPd6UD6uta",
-    name: "My NFT 0"
+    "id": 0,
+    "description": "My NFT",
+    "image": "https://ipfs.io/ipfs/QmRnWAoMxr2ZHCuFF8sDtnKjN6iayLjVw8j8NPd6UD6uta",
+    "name": "My NFT 0"
 }
